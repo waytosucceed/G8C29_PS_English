@@ -1,0 +1,272 @@
+{
+  "heading": "Subject-Verb Agreement Part 2.",
+  "topics": [
+    {
+      "heading": "Subject-Verb Agreement Part 2.",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "All countable nouns take plural verbs.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1,
+            "explanation": "In English, certain countable nouns, like goods, earnings, odds, surroundings, proceeds, contents, and valuables only have a plural form and take a plural verb."
+        },
+        {
+            "questionNo": 2,
+            "question": "The indefinite pronoun ‘several’ takes a singular verb.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1,
+            "explanation": "Plural indefinite pronouns like several, many, both and few need a plural verb."
+        },
+        {
+            "questionNo": 3,
+            "question": "Only prepositional phrases between the subject and verb usually do not affect the agreement.",
+            "options": [
+                "Correct",
+                "Incorrect"
+            ],
+            "answer": 1,
+            "explanation": "Other phrases between the subject and the verb also do not impact the subject-verb agreement."
+        },
+        {
+            "questionNo": 4,
+            "question": "A few singular pronouns take a singular verb.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1,
+            "explanation": "All of them take a singular verb. Singular indefinite pronouns like 'each,' 'either,' 'everyone,' 'somebody,' and 'no one' are subjects in a sentence and necessitate a singular verb."
+        },
+        {
+            "questionNo": 5,
+            "question": "Fill in the blanks:<br>When a …………………….. subject includes both a single and a plural noun or pronoun connected by 'or' or 'nor,' the verb should agree with the part of the subject closest to the verb.",
+            "options": [
+                "Singular",
+                "Plural",
+                "Compound",
+                "None of the above"
+            ],
+            "answer": 2,
+            "explanation": "This is the rule of proximity. For example: 'Either Noah or his cousins are bringing the cake.'"
+        },
+        {
+            "questionNo": 6,
+            "question": "Which sentence is grammatically correct?",
+            "options": [
+                "The earnings of this farmer is pretty low.",
+                "The earning of this farmer is pretty less.",
+                "The earnings of this farmer are pretty low.",
+                "The earning of this farmer were huge."
+            ],
+            "answer": 2,
+            "explanation": "In English, certain countable nouns, like goods, earnings, odds, surroundings, proceeds, contents, and valuables only have a plural form and take a plural verb."
+        },
+        {
+            "questionNo": 7,
+            "question": "Fill in the blanks:<br>Several of my relatives ……………… a part of the protest.",
+            "options": [
+                "Were",
+                "Was"
+            ],
+            "answer": 0,
+            "explanation": "Plural indefinite pronouns like several, many, both and few need a plural verb."
+        },
+        {
+            "questionNo": 8,
+            "question": "Fill in the blanks:<br>Neither my mother nor her office colleagues ………. to the gym.",
+            "options": [
+                "Go",
+                "Goes"
+            ],
+            "answer": 0,
+            "explanation": "When a compound subject includes both a single and a plural noun or pronoun connected by 'or' or 'nor,' the verb should agree with the part of the subject closest to the verb. This is also known as the rule of proximity."
+        },
+        {
+            "questionNo": 9,
+            "question": "America, with its multicultural landscape, ………… a diverse population.",
+            "options": [
+                "Support",
+                "Supports"
+            ],
+            "answer": 1,
+            "explanation": "Prepositional phrases between the subject and the verb usually do not affect the agreement."
+        },
+        {
+            "questionNo": 10,
+            "question": "In most questions, the subject does not appear before the verb. Before deciding on the suitable verb form, be sure you've properly recognized the subject.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 0,
+            "explanation": "The question is self-explanatory."
+        },
+        {
+            "questionNo": 11,
+            "question": "A ………………verb is used when two or more ……………… nouns or pronouns are connected by not only/but also, 'or'/ 'nor,' either/or, neither/nor.",
+            "options": [
+                "Singular, plural",
+                "Plural, Singular",
+                "Plural, Plural",
+                "Singular, Singular"
+            ],
+            "answer": 3,
+            "explanation": "The question is self-explanatory."
+        },
+        {
+            "questionNo": 12,
+            "question": "Collective nouns refer to multiple people or things but are deemed ……………….. and require a ……………… verb.",
+            "options": [
+                "Singular, Plural",
+                "Plural, Plural",
+                "Singular, Singular",
+                "Plural, Singular"
+            ],
+            "answer": 2,
+            "explanation": "The question is self-explanatory."
+        },
+        {
+            "questionNo": 13,
+            "question": "Uncountable nouns accept a plural verb because they can be measured.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1,
+            "explanation": "Uncountable nouns accept a singular verb because they cannot be counted."
+        },
+        {
+            "questionNo": 14,
+            "question": "Will the verb change if the following sentence is flipped:<br> 'Neither the cows nor the goat is going outside.'",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": 0,
+            "explanation": "When a compound subject includes both a single and a plural noun or pronoun connected by 'or' or 'nor,' the verb should agree with the part of the subject closest to the verb."
+        },
+        {
+            "questionNo": 15,
+            "question": "When there is more than one verb in a sentence, the verbs must agree with the subject throughout the sentence.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 0,
+            "explanation": "The question is self-explanatory."
+        },
+        {
+            "questionNo": 16,
+            "question": "Fill in the blanks:<br>Where …………the pieces of my birthday cake?",
+            "options": [
+                "Is",
+                "Are"
+            ],
+            "answer": 1,
+            "explanation": "In most questions, the subject does not appear before the verb. Before deciding on the suitable verb form, be sure you've properly recognized the subject."
+        },
+        {
+            "questionNo": 17,
+            "question": "Neither………nor………cooks well.",
+            "options": [
+                "He, she",
+                "I, they",
+                "They, she",
+                "We, he"
+            ],
+            "answer": 0,
+            "explanation": "A singular verb is used when two or more singular nouns or pronouns are connected by not only/but also, 'or'/ 'nor,' either/or, neither/nor."
+        },
+        {
+            "questionNo": 18,
+            "question": "Every toddler, teenager and adult ………. given two shots of the vaccine.",
+            "options": [
+                "Was",
+                "Were"
+            ],
+            "answer": 1,
+            "explanation": "Singular indefinite pronouns like 'each,' 'each one,' 'either,' 'neither,' 'everyone,' 'everybody,' 'anyone,' 'anybody,' 'nobody,' 'somebody,' 'someone,' and 'no one' are subjects in a sentence, necessitating a singular verb. In the given sentence, 'every' is acting as the indefinite pronoun for all three subjects."
+        },
+        {
+            "questionNo": 19,
+            "question": "Diabetes……..known to be harmful as it impairs other physiological functions of the body.",
+            "options": [
+                "Is",
+                "Are"
+            ],
+            "answer": 0,
+            "explanation": "Abstract nouns are uncountable nouns and they take singular verbs."
+        },
+        {
+            "questionNo": 20,
+            "question": "Fill in the Blank<br>A ……………………verb is employed when the sentence's subject consists of two or more nouns or pronouns joined by 'and.'",
+            "options": [
+                "Singular",
+                "Plural"
+            ],
+            "answer": 1,
+            "explanation": "The question is self-explanatory. For example: 'Viola and Reem were sleeping.'"
+        },
+        {
+            "questionNo": 21,
+            "question": "Fill in the blanks:<br>Everybody ……………that the Mavery House is haunted.",
+            "options": [
+                "Say",
+                "Says"
+            ],
+            "answer": 0,
+            "explanation": "Singular indefinite pronouns like 'each,' 'each one,' 'either,' 'neither,' 'everyone,' 'everybody,' 'anyone,' 'anybody,' 'nobody,' 'somebody,' 'someone,' and 'no one' are subjects in a sentence, necessitating a singular verb."
+        },
+        {
+            "questionNo": 22,
+            "question": "A plural verb is used if two subjects are related, connected by 'and,' and imply the same person or thing.",
+            "options": [
+                "True",
+                "False"
+            ],
+            "answer": 1,
+            "explanation": "A singular verb is used if two subjects are related, connected by 'and,' and imply the same person or thing. For example: 'Bread and Butter was my breakfast.'"
+        },
+        {
+            "questionNo": 23,
+            "question": "Fill in the blanks:<br>The anti-ragging committee …………up for justice.",
+            "options": [
+                "Stands",
+                "Stand"
+            ],
+            "answer": 0,
+            "explanation": "Collective nouns refer to multiple people or things but are deemed singular and require a singular verb."
+        },
+        {
+            "questionNo": 24,
+            "question": "Choose the correct option:<br>The cloudy sky, the windy atmosphere and the dull sun are indicative of heavy rain. <br>The sentence above has:",
+            "options": [
+                "Errors",
+                "No errors"
+            ],
+            "answer": 1,
+            "explanation": "A plural verb is employed when the sentence's subject consists of two or more nouns or pronouns joined by 'and.'"
+        },
+        {
+            "questionNo": 25,
+            "question": "Nobody …………like you.",
+            "options": [
+                "Sing",
+                "Sings"
+            ],
+            "answer": 1,
+            "explanation": "Singular indefinite pronouns like 'each,' 'each one,' 'either,' 'neither,' 'everyone,' 'everybody,' 'anyone,' 'anybody,' 'nobody,' 'somebody,' 'someone,' and 'no one' are subjects in a sentence, necessitating a singular verb."
+        }
+    ]
+    
+    
+    }
+  ]
+}
